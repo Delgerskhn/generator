@@ -1,0 +1,14 @@
+{
+  "name": "tp-source-generator",
+  "version": "1.0.0",
+  "description": "Shared source generators ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "hygen": "^6.2.11"
+  }
+}
